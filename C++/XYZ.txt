@@ -1,0 +1,51 @@
+7602744
+A2.singh
+0009372438
+
+8594101051878
+
+
+http://aapkashahar.co.in/webservice/service_category
+
+	310785X81958
+	
+///////////////////////////////////////////////////////////////////////////////////
+<activity
+    android:name="com.example.android.GizmosActivity"
+    android:label="@string/title_gizmos" >
+    <intent-filter android:label="@string/filter_title_viewgizmos">
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+        <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
+        <data android:scheme="http"
+              android:host="www.example.com"
+              android:pathPrefix="/gizmos" />
+        <!-- note that the leading "/" is required for pathPrefix-->
+        <!-- Accepts URIs that begin with "example://gizmos” -->
+        <data android:scheme="example"
+              android:host="gizmos" />
+
+    </intent-filter>
+</activity>
+
+
+http://abcmart.in/home/index
+
+
+1. Active notification for updates .
+2. News notification ..  image like ..
+3. Banner notification ..  image like ..
+4.  video and news  & share at What's up
+3. 3 user created by ur side to access (a) one for news 
+(B) service 
+(C) admin 
+4. To quick load - in news section - atleast 10 news  & 3 days backup
+
+transaction 	309683X839473
+
+http://disease-ontology.org/
+http://ifomis.uni-saarland.de/bfo/
+http://stackoverflow.com/questions/15711575/how-to-make-a-connection-with-my-ontology
+https://monead.com/blog/?p=1420
+http://owlapi.sourceforge.net/
